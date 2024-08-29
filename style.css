@@ -184,8 +184,8 @@
   margin-top: 40px;
 }
 
-.pixelsection {
-}
+/* .pixelsection {
+} */
 .pixelparent {
   display: flex;
 }
@@ -394,13 +394,137 @@
 }
 
 @media (max-width: 834px) {
+  .sectionhero {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .writeup0 {
+    width: 95%;
+  }
+  .headerlorem {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .parenthero {
+    margin-top: 50px;
+  }
+  .chidNava {
+    display: none;
+  }
+  .outline008 {
+    font-size: medium;
+  }
+  .herotext {
+    font-size: smaller;
+  }
+  .heroext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+  }
+  .span {
+    font-size: large;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+  }
+  .pan {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size: small;
+  }
+
+  .herobutton {
+    margin-bottom: 12px;
+  }
+  .belowclients {
+    font-size: large;
+  }
+  .belowclient0 {
+    font-size: large;
+  }
+  .ourclientheader {
+    font-size: large;
+  }
+  .htextpng {
+    margin-top: -250px;
+    height: 500px;
+    width: 490px;
+  }
+
+  .img {
+    width: 250px;
+    margin-top: 199px;
+  }
+  .hellpsection {
+    height: auto;
+  }
+  .iconsec {
+    margin-bottom: 10px;
+  }
+  .iimgg {
+    width: 29px;
+  }
   .care {
     height: auto;
   }
-  .footerbar {
-    height: auto;
+  .carmas {
+    margin: 10px 44px 10px;
+  }
+  .carmar {
+    font-size: large;
   }
   .care-image {
     height: auto;
+    gap: 5px;
+  }
+  .jjam div img {
+    height: 150px;
+    width: 150px;
+  }
+  .cctex {
+    border-radius: 10px;
+    height: 18vh;
+    margin: -40px 20px;
+    width: 27%;
+  }
+  .cctex h3 {
+    margin: 1px;
+    color: hsl(0, 0%, 50%);
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .bbtxx {
+    width: 90px;
+    height: 38px;
+    margin: 5px 20px;
+  }
+  .footerbar {
+    height: auto;
+    margin-top: 130px;
+  }
+  .Nextcentlastsection1 {
+    font-size: small;
+    margin-top: 50px;
+  }
+  .Nextcentlastsection2 {
+    font-size: small;
+  }
+  .Nextcentlastsection3 {
+    font-size: small;
+  }
+  .footerbar1 {
+    gap: 19px;
+  }
+  .z {
+    font-size: small;
+    margin: 0px 10px 0px;
+  }
+  .img999 {
+    width: 130px;
+    margin: 0px 5px 0px;
+  }
+  .icon {
+    margin: 0px 8px 0px;
   }
 }
